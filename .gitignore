@@ -1,0 +1,6 @@
+*.aux
+*.log
+smt-blx.bib
+smt.pdf
+smt.run.xml
+
